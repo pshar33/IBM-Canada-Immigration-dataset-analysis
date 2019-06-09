@@ -22,5 +22,5 @@ I found some interesting results by visualizing and analyzing the data.
 * Developing vs Developed countries
 * Choropleth map for visualizing immigrants to canada from across the world.
 
-The link to my kaggle kernel is https://www.kaggle.com/parthsharma5795/o-canada .
+The *final choropleth map code and plot* is shown in my kaggle kernel https://www.kaggle.com/parthsharma5795/o-canada .
 **Please upvote and feel free to leave a feedback or comment on my kernel if you found it to be helpful !!**
