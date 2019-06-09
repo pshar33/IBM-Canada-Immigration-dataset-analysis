@@ -1,5 +1,14 @@
 # IBM-Canada-Immigration-dataset-analysis
 
+### Code requirements
+
+* Numpy
+* Pandas
+* matplotlib
+* seaborn
+* os
+* folium
+
 ### Breakdown of this notebook:
 * Loading the dataset: Load the data and import the libraries.
 * The data is already almost clean without any missing values,etc.
